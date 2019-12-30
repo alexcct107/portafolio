@@ -11,8 +11,13 @@ header{
 	background-image: url("../img/bg_hero.png");
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: left;
-	
+	background-position: center;
+	height: 51rem;
+
+}
+
+.pth1{
+	padding-top: 400px;
 }
 
 hr{
