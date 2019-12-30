@@ -1,6 +1,7 @@
 body{ 
 	font-family: 'Open Sans', sans-serif;
 	padding-top: 69px;
+	
 }
 
 .bgpurple{
@@ -16,12 +17,18 @@ header{
 
 }
 
+.display-2 {
+font-size: 3.5rem;
+line-height: 1.2;	
+	
+}
+
 .pth1{
-	padding-top: 400px;
+	padding-top: 450px;
 }
 
 hr{
-	width: 440px;
+	width: 295px;
 	height: 1px;
 	background: white;
 }
@@ -65,11 +72,12 @@ hr{
 }
 
 .space{
-	letter-spacing: 20px;
+	letter-spacing: 9px;
 }
 
 .mtmagda{
 	margin-top: -16px;
+	height: 0px;
 }
 
 .car-deck, p{
