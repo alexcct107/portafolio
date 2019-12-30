@@ -12,6 +12,7 @@ header{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: left;
+	
 }
 
 hr{
@@ -68,4 +69,29 @@ hr{
 
 .car-deck, p{
 	color: #373A3C;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.aexp{
+	text-decoration: none;
+	color: black;
+}
+
+.sizework{
+	font-weight: 600;
+	font-size: 50px;
+}
+
+.ptbwork{
+	padding-bottom: 100px;
+	padding-top: 20px;
+}
+
+.fontitle{
+	font-weight: 600;
+	
 }
